@@ -1,0 +1,15 @@
+.box{
+    border:15px solid blue;
+    height:200px;
+    width:200px;
+    padding:10px;
+    background: lightblue;
+    margin:25px;
+    
+    
+    
+}
+.p{               /* text color is white */ 
+                   /* Content, padding will be blue */
+        margin: 25px 25px 25px 25px;
+        padding: 12px 0px 12px 12px;}
